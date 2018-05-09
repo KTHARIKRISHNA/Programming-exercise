@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall -O3 -ffast-math -fomit-frame-pointer -funroll-loops -D__STDC_CONSTANT_MACROS    CMakeFiles/ert_main.dir/string_sort.o  -o ert_main  -L/usr/local/lib -rdynamic 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hakakarl/Desktop/Programming-exercise-master/string anagram/src/string_sort.cpp
+iostream
+/home/hakakarl/Desktop/Programming-exercise-master/string anagram/src/iostream
+algorithm
+-
+string.h
+/home/hakakarl/Desktop/Programming-exercise-master/string anagram/src/string.h
+
