@@ -1,0 +1,4 @@
+/home/hakakarl/Desktop/Programming-exercise-master/Programming-exercise/string anagram/src/build/CMakeFiles/rebuild_cache.dir
+/home/hakakarl/Desktop/Programming-exercise-master/Programming-exercise/string anagram/src/build/CMakeFiles/edit_cache.dir
+/home/hakakarl/Desktop/Programming-exercise-master/Programming-exercise/string anagram/src/build/CMakeFiles/ert_main_new.dir
+/home/hakakarl/Desktop/Programming-exercise-master/Programming-exercise/string anagram/src/build/CMakeFiles/ert_main.dir
