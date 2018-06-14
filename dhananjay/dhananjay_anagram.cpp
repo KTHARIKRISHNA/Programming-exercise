@@ -17,15 +17,23 @@ using namespace std;
 int main(int argc, char** argv)
 {
 
-string str1 = argv[1];
-string str2 = argv[2];
-int out = 0;
-
-//start coding from here
-
-
-
-//
+std::string str1 = argv[1];
+	std::string str2 = argv[2];
+	int out = 0;
+    //length of strings
+    
+	sort(str1.begin(),str1.end());
+	sort(str2.begin(),str2.end());
+	
+	
+	if (str1.compare(str2) != 0)
+    {
+	out = 0;}
+	else
+	{out = 1;}
+	
+	cout << "out "<<out<<endl;
+    return out;
 }
 
 
